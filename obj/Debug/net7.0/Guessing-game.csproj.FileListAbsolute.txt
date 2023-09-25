@@ -1,0 +1,14 @@
+C:\Users\leona\CsharpProjects\Guessing-game\bin\Debug\net7.0\Guessing-game.exe
+C:\Users\leona\CsharpProjects\Guessing-game\bin\Debug\net7.0\Guessing-game.deps.json
+C:\Users\leona\CsharpProjects\Guessing-game\bin\Debug\net7.0\Guessing-game.runtimeconfig.json
+C:\Users\leona\CsharpProjects\Guessing-game\bin\Debug\net7.0\Guessing-game.dll
+C:\Users\leona\CsharpProjects\Guessing-game\bin\Debug\net7.0\Guessing-game.pdb
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.AssemblyInfoInputs.cache
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.AssemblyInfo.cs
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.csproj.CoreCompileInputs.cache
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.dll
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\refint\Guessing-game.dll
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.pdb
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\Guessing-game.genruntimeconfig.cache
+C:\Users\leona\CsharpProjects\Guessing-game\obj\Debug\net7.0\ref\Guessing-game.dll
